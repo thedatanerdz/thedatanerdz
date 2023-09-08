@@ -13,7 +13,7 @@
   
 -  CV:  [click here](https://github.com/thedatanerdz/CV/blob/main/CV_Soleil_Botha.pdf)
 
-- ⚡ Fun fact **I am training for a marathon in support of NPO called DataKind.**
+- ⚡ Fun fact about me **I am training for a marathon in support of NPO called DataKind.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
