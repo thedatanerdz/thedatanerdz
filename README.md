@@ -10,6 +10,8 @@
 - 📫 How to reach me **soleil.botha.001@gmail.com**
 
 - 📄 Know about my experiences [https://www.soleilbotha.com/](https://www.soleilbotha.com/)
+  
+-  CV:  [click here ]([https://www.soleilbotha.com/](https://github.com/thedatanerdz/CV/blob/main/CV_Soleil_Botha.pdf))
 
 - ⚡ Fun fact **I am training for a marathon in support of NPO called DataKind.**
 
