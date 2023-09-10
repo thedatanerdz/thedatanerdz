@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **an advanced content creation NLP project.**
 
-- 👨‍💻 All of my projects are available at [https://www.soleilbotha.com/projects](https://www.soleilbotha.com/projects)
+- 👨‍💻 Some of my projects are available at [https://www.soleilbotha.com/projects](https://www.soleilbotha.com/projects)
 
 - 💬 Ask me about **DATA ENGINEERING, MACHINE LEARNING ENGINEERING, MLOPS, DEVOPS, STARTUPS**
 
