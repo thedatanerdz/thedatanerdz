@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://www.soleilbotha.com/](https://www.soleilbotha.com/)
   
--  CV:  [click here](https://github.com/thedatanerdz/CV/blob/main/soleil_botha_cv.pdf))
+-  CV:  [click here](https://github.com/thedatanerdz/CV/blob/main/soleil_botha_cv.pdf)
 
 - ⚡ Fun fact about me **I am training for a marathon in support of NPO called DataKind.**
 
