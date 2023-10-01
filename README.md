@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact about me **I am training for a marathon in support of NPO called DataKind.**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: soleil.botha.001@gmail.com</h3>
 <p align="left">
 </p>
 
