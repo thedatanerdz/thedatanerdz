@@ -7,6 +7,9 @@
 - DATA ANAYLYST PROJECTS START WITH DAP - [CLICK HERE](https://github.com/thedatanerdz?tab=repositories&q=DAP&type=public&language=&sort=)
 
 
+
+
+
 - 🔭 I’m currently working on **an advanced content creation NLP project.**
 
 - 👨‍💻 Some of my projects are available at [https://www.soleilbotha.com/projects](https://www.soleilbotha.com/projects)
