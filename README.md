@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Soleil (a.k.a thedatanerdz)</h1>
 <h3 align="center">Building end-to-end data intensive applications (aka crystal balls).</h3>
 
+**HOW TO NAVIGATE MY GIT HUB:**
+- DATA ENGINEERING PROJECTS START WITH DEP - [CLICK HERE](https://github.com/thedatanerdz?tab=repositories&q=DEP&type=public&language=&sort=)
+- DATA SCIENTIST/MACHINE LEARNING PROJECTS START WITH MLP - [CLICK HERE](https://github.com/thedatanerdz?tab=repositories&q=MLP&type=public&language=&sort=)
+- DATA ANAYLYST PROJECTS START WITH DAP - [CLICK HERE](https://github.com/thedatanerdz?tab=repositories&q=DAP&type=public&language=&sort=)
+
+
 - 🔭 I’m currently working on **an advanced content creation NLP project.**
 
 - 👨‍💻 Some of my projects are available at [https://www.soleilbotha.com/projects](https://www.soleilbotha.com/projects)
