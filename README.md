@@ -5,7 +5,7 @@
 - DATA ENGINEERING PROJECTS START WITH DEP - [CLICK HERE](https://github.com/thedatanerdz?tab=repositories&q=DEP&type=public&language=&sort=)
 - DATA SCIENTIST/MACHINE LEARNING PROJECTS START WITH MLP - [CLICK HERE](https://github.com/thedatanerdz?tab=repositories&q=MLP&type=public&language=&sort=)
 - DATA ANAYLYST PROJECTS START WITH DAP - [CLICK HERE](https://github.com/thedatanerdz?tab=repositories&q=DAP&type=public&language=&sort=)
-
+- SOFTWARE ENGINEERING PROJECTS START WITH SEP - [CLICK HERE](https://github.com/thedatanerdz?tab=repositories&q=SEP&type=public&language=&sort=)
 
 ========================================================================================
 
