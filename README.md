@@ -12,8 +12,6 @@
 
 - 🔭 I’m currently working on **an advanced content creation NLP project.**
 
-- 👨‍💻 Some of my projects are available at [https://www.soleilbotha.com/projects](https://www.soleilbotha.com/projects)
-
 - 💬 Ask me about **DATA ENGINEERING, MACHINE LEARNING ENGINEERING, MLOPS, DEVOPS, STARTUPS**
 
 - 📫 How to reach me **soleil.botha.001@gmail.com**
