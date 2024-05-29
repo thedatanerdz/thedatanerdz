@@ -14,11 +14,8 @@
 
 - 💬 Ask me about **DATA ENGINEERING, MACHINE LEARNING ENGINEERING, MLOPS, DEVOPS, STARTUPS**
 
-- 📫 How to reach me **soleil.botha.001@gmail.com**
-
 - ⚡ Fun fact about me **I am training for a marathon in support of NPO called DataKind.**
 
-<h3 align="left">Connect with me: soleil.botha.001@gmail.com</h3>
 <p align="left">
 </p>
 
