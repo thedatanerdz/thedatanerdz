@@ -16,8 +16,6 @@
 
 - 📫 How to reach me **soleil.botha.001@gmail.com**
 
-- 📄 Know about my experiences [https://www.soleilbotha.com/](https://www.soleilbotha.com/)
-
 - ⚡ Fun fact about me **I am training for a marathon in support of NPO called DataKind.**
 
 <h3 align="left">Connect with me: soleil.botha.001@gmail.com</h3>
